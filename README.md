@@ -1,2 +1,10 @@
-# front-end
-Curso Desenvolvimento Front-End do Zero ao Pro
+<h4 align="center"> 
+	🚧  Readme 🚀 Em construção...  🚧
+</h4>
+
+
+### Progress
+
+- [x] Inscrição no curso
+- [x] Realização dos Exercicios 
+- [ ] Conclusão (6 meses)
