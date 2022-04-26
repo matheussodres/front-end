@@ -20,5 +20,5 @@
 
 Feito com ❤️ por Matheus Sodré 👋🏽 Entre em contato!
 
-[![Twitter Badge](https://img.shields.io/badge/-@MatheusSodre04-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MatheusSodre04)](https://twitter.com/MatheusSodre04) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusssodre)](https://www.linkedin.com/in/matheusssodre) 
+[![Twitter Badge](https://img.shields.io/badge/-@MatheusSodre04-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MatheusSodre04)](https://twitter.com/MatheusSodre04) [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusssodre)](https://www.linkedin.com/in/matheusssodre) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@matheussodredev.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheussodredev.com.br)](mailto:contato@matheussodredev.com.br)
