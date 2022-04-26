@@ -12,8 +12,8 @@
 ### Autor
 ---
 
-<a href="https://github.com/matheussodres">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/33385453?v=4" width="100px;" alt=""/>
+<a  href="https://github.com/matheussodres">
+ <img align="center" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/33385453?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Matheus Sodre</b></sub></a> <a href="https://avatars.githubusercontent.com/u/33385453?v=4" title="Rocketseat">🚀</a>
 
